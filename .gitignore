@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model files
+*.pth
+*.pt
+*.ckpt
+
+# Dataset folders
+data/
+datasets/
+
+# Kaggle cache
+.kaggle/
+
+# Temporary files
+tmp/
+temp/
+
+# Environment variables
+.env
+.env.*
+
+# Matplotlib cache
+.matplotlib/
+
+# Results and outputs
+outputs/
+results/
+checkpoints/
